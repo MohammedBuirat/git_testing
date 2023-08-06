@@ -1,3 +1,4 @@
 Once upon a time, in a village named "Init", lived a brave adventurer named Git.Git was well-known for his curiosity to learn.
 He had one dream - to explore the mysterious world of Version Control.
 this is a new line to chapter1
+new lines to test rebase
