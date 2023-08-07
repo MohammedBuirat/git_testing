@@ -3,3 +3,4 @@ He had one dream - to explore the mysterious world of Version Control.
 this is a new line to chapter1
 new lines to test rebase
 this is some random stuff
+trying the hooks
